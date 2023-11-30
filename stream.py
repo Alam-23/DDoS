@@ -1,9 +1,6 @@
 # Import library Streamlit
 import streamlit as st
 import pandas as pd
-from pyecharts import options as opts
-from pyecharts.charts import Line
-from pyecharts.charts import Bar
 import plotly.express as px
 
 
